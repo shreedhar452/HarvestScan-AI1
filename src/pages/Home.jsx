@@ -7,7 +7,7 @@ export default function Home() {
       <div className="hero-card">
 
         <h1>
-          🌾 HarvestScan
+          🌾 CeresScan AI
         </h1>
 
         <p>
