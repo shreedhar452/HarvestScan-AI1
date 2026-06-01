@@ -4,7 +4,7 @@ export default function Navbar() {
   return (
     <nav className="navbar">
       <div className="navbar-logo">
-        🌾 CeresScan AI
+        🌾 HarvestScan AI
       </div>
 
       <div className="navbar-links">

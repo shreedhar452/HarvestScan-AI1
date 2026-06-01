@@ -1,6 +1,6 @@
-🌾 CeresScan AI
+🌾 HarvestScan AI
 AI-Based Grain Identification System
-CeresScan AI is a React-based Machine Learning web application designed to help farmers identify grain types using image analysis and image processing techniques.
+HarvestScan AI is a React-based Machine Learning web application designed to help farmers identify grain types using image analysis and image processing techniques.
 The application allows users to:
 Capture grain images using a mobile camera
 Upload grain images from a device
@@ -123,9 +123,9 @@ src/
 
 ⚙️ Installation
 Clone the repository:
-git clone https://github.com/saik836/ceresscan-ai.git
+git clone https://github.com/shreedhar452/HarvestScan-AI1.git
 Move into project folder:
-cd ceresscan-ai
+cd Harvestscan-ai
 Install dependencies:
 npm install
 Run development server:
@@ -136,7 +136,7 @@ http://localhost:5173
 🌐 Deployment
 GitHub Repository
 Repository:
-https://github.com/saik836/ceresscan-ai
+https://github.com/shreedhar452/Harvestscan-ai1
 Vercel Deployment
 Deploy using:
 vercel
@@ -167,7 +167,7 @@ Expected Accuracy:
 with a properly trained grain dataset.
 
 👨‍💻 Developer
-Project: CeresScan AI
+Project: HarvestScan AI
 Domain:
 Artificial Intelligence
 Machine Learning
